@@ -1,5 +1,5 @@
-# intune-template
-Intune package for the Meta4 Browser Extension
+# intune-meta4-extension
+Intune package for the Meta4 Browser Extension Helper.
 
 ## [Microsoft-Win32-Content-Prep-Tool](https://github.com/microsoft/Microsoft-Win32-Content-Prep-Tool)
 
@@ -17,6 +17,7 @@ PLEASE REVIEW THE FOLLOWING TERMS AND PRIVACY POLICIES BEFORE USING THIS TOOL.
 ## [Cegid Meta4](http://www.meta4.com/)
 
 Located under [src](src) is the executable file developed by [Cegid Meta4](http://www.meta4.com/).
+
 [Privacy Policy](https://www.meta4.com/privacy/)
 
 Version: 1.1.0.0
