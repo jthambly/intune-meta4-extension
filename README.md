@@ -1,5 +1,5 @@
 # intune-template
-Intune package for ???
+Intune package for the Meta4 Browser Extension
 
 ## [Microsoft-Win32-Content-Prep-Tool](https://github.com/microsoft/Microsoft-Win32-Content-Prep-Tool)
 
@@ -14,20 +14,20 @@ PLEASE REVIEW THE FOLLOWING TERMS AND PRIVACY POLICIES BEFORE USING THIS TOOL.
 [Microsoft Intune Privacy Statement](https://docs.microsoft.com/legal/intune/microsoft-intune-privacy-statement)
 
 
-## [???](#)
+## [Cegid Meta4](http://www.meta4.com/)
 
-Located under [src](src) is the ??? developed by [???](#).
-Licence???
+Located under [src](src) is the executable file developed by [Cegid Meta4](http://www.meta4.com/).
+[Privacy Policy](https://www.meta4.com/privacy/)
 
-Version: ???
+Version: 1.1.0.0
 
-Silent Installation: ```???```
+Installation: ```m4clickoncehelper.exe```
 
-Silent Uninstallation: ```???```
+Uninstallation: ```m4clickoncehelper.exe /Uninstall```
 
-Default Installation/Detection Rule Path: ```???```
+Default Installation/Detection Rule Path: ```%USERPROFILE%\AppData\Local\Meta4\ClickOnceHelper```
 
-Detection Rule File: ```???``` or ```???```
+Detection Rule File: ```m4clickoncehelper.exe```
 
 ## Generating the .intunewin file
 
@@ -35,7 +35,7 @@ To generate the output .intunewin file, simply run the ```generate.cmd``` script
 
 ## License
 
-**Both utilities remain the Intellectual Property and Copyright of the respective owners Microsoft and ???.**
+**Both utilities remain the Intellectual Property and Copyright of the respective owners Microsoft and Cegid Meta4.**
 
 For other materials:
 
